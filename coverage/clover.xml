@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1711553197374" clover="3.2.0">
+  <project timestamp="1711553197375" name="All files">
+    <metrics statements="50" coveredstatements="50" conditionals="32" coveredconditionals="32" methods="19" coveredmethods="19" elements="101" coveredelements="101" complexity="0" loc="50" ncloc="50" packages="1" files="10" classes="10"/>
+    <file name="bascket.js" path="/home/yriidanilov/test/src/bascket.js">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="10" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+    </file>
+    <file name="fill.js" path="/home/yriidanilov/test/src/fill.js">
+      <metrics statements="8" coveredstatements="8" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="16" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+    </file>
+    <file name="get.js" path="/home/yriidanilov/test/src/get.js">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+    </file>
+    <file name="indexOf.js" path="/home/yriidanilov/test/src/indexOf.js">
+      <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="more.js" path="/home/yriidanilov/test/src/more.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="reverse.js" path="/home/yriidanilov/test/src/reverse.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="6" type="stmt"/>
+    </file>
+    <file name="set.js" path="/home/yriidanilov/test/src/set.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="3" type="stmt"/>
+    </file>
+    <file name="slice.js" path="/home/yriidanilov/test/src/slice.js">
+      <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="10" count="23" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="17" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+    </file>
+    <file name="stack.js" path="/home/yriidanilov/test/src/stack.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+    <file name="without.js" path="/home/yriidanilov/test/src/without.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
